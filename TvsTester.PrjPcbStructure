@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=TvsTester.SchDoc
+Record=SheetSymbol|SourceDocument=TvsTester.SchDoc|Designator=L1|SchDesignator=L1|FileName=Lm234.SchDoc|SymbolType=Normal|RawFileName=Lm234.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TvsTester.SchDoc|Designator=L2|SchDesignator=L2|FileName=Lm234.SchDoc|SymbolType=Normal|RawFileName=Lm234.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
